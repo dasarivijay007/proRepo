@@ -1,3 +1,5 @@
-changes made by the developer 2, copy that, developer 1 receive
+changes made by the developer 2, copy that, developer 1 receive.
 change made to understand .git
-modified in master branch to test git merge from git hub
+modified in master branch to test git merge from git hub.
+modified in master branch to test git merge from git.
+
